@@ -8,19 +8,19 @@ This project contains five Selenium scripts showcasing different browser automat
 
 ### Scripts overview
 
-1. **basic_chrome_launch.py**  
+0. **basic_chrome_launch.py**  
    Launches Chrome and opens a URL.
 
-2. **search_techwithtim.py**  
+1. **search_techwithtim.py**  
    Performs a search on `techwithtim.net`, waits for results, prints article summaries, and closes the browser.
 
-3. **navigate_links.py**  
+2. **navigate_links.py**  
    Navigates through links on `techwithtim.net`, clicks buttons, and demonstrates browser navigation (back/forward).
 
-4. **firefox_ab_testing.py**  
+3. **firefox_ab_testing.py**  
    Opens Firefox, navigates to a test page, clicks a link, then closes the browser.
 
-5. **cookie_clicker_bot.py**  
+4. **cookie_clicker_bot.py**  
    Automates clicks on the Cookie Clicker game using Firefox, demonstrates implicit waits, and item upgrades with action chains.
 
 ---
