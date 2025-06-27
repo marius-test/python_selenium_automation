@@ -31,6 +31,21 @@ This project contains five Selenium scripts showcasing different browser automat
 
 ---
 
+### A4Q Selenium Tester
+
+The `a4q_selenium_tester` folder contains my solutions to the **A4Q Certified Selenium 4 Tester Foundation v3.0** workshop exercises, completed as part of my certification preparation, which I successfully passed in May 2025.
+
+### Goal
+
+To validate and demonstrate my skills as a **Selenium Automation Tester** by completing the official workshop exercises and passing the certification exam.
+
+### Contents
+
+- Completed solutions to the official **A4Q Selenium Tester Foundation Workshop Exercises** (Python)
+- `locators_training` contains my locator solutions; the exercises are based on examples from the official mock exam
+
+---
+
 ### Page Object Model
 
 The `page_object_model` folder contains a Selenium test case implemented using the Page Object Model pattern, featuring:
@@ -47,5 +62,3 @@ The `page_object_model` folder contains a Selenium test case implemented using t
 - ChromeDriver and GeckoDriver paths are hardcoded; update `PATH` variables to match your local setup.  
 - Scripts use explicit and implicit waits to handle page load timing.  
 - This was my first Selenium learning project and helped me build a solid foundation for more advanced automation work.
-
-> Inspired by various tutorials and learning resources; all code written and customized independently.
