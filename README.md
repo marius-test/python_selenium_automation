@@ -35,11 +35,9 @@ This project contains five Selenium scripts showcasing different browser automat
 
 The `a4q_selenium_tester` folder contains my solutions to the **A4Q Certified Selenium 4 Tester Foundation v3.0** workshop exercises, completed as part of my certification preparation, which I successfully passed in May 2025.
 
-### Goal
+The goal is to validate and demonstrate my skills as a **Selenium Automation Tester** by completing the official workshop exercises and passing the certification exam.
 
-To validate and demonstrate my skills as a **Selenium Automation Tester** by completing the official workshop exercises and passing the certification exam.
-
-### Contents
+#### Contents
 
 - Completed solutions to the official **A4Q Selenium Tester Foundation Workshop Exercises** (Python)
 - `locators_training` contains my locator solutions; the exercises are based on examples from the official mock exam
