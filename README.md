@@ -1,6 +1,6 @@
 # python_selenium_automation
 
-**Selenium** automation demos in **Python 3**
+**Selenium** automation demos in **Python**
 
 Libraries: *selenium, time*
 
