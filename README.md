@@ -37,4 +37,4 @@ This project contains five Selenium scripts showcasing different browser automat
 - Scripts use explicit and implicit waits to handle page load timing.  
 - This was my first Selenium learning project and helped me build a solid foundation for more advanced automation work.
 
-> **Disclaimer:** These scripts were originally based on a tutorial, but I heavily modified and expanded them to fit my learning goals and use cases.
+> **Disclaimer:** These scripts were originally based on multiple tutorials, but I heavily modified and expanded them to fit my learning goals and use cases.
