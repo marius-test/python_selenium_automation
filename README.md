@@ -29,5 +29,6 @@ This project contains five Selenium scripts showcasing different browser automat
 
 - ChromeDriver and GeckoDriver paths are hardcoded; update `PATH` variables to match your local setup.  
 - Scripts use explicit and implicit waits to handle page load timing.  
-- This was my first Selenium learning project—an enjoyable introduction that paved the way for more advanced automation projects.  
-- **Disclaimer:** These scripts were originally based on a tutorial, but I heavily modified and expanded them to fit my learning goals and use cases.
+- This was my first Selenium learning project and helped me build a solid foundation for more advanced automation work.
+
+> **Disclaimer:** These scripts were originally based on a tutorial, but I heavily modified and expanded them to fit my learning goals and use cases.
