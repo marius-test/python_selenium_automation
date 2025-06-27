@@ -4,7 +4,7 @@
 
 Libraries: *selenium, time, unittest, pytest*
 
-This project contains five Selenium scripts showcasing different browser automation techniques using Chrome and Firefox WebDrivers.
+This project contains five Selenium scripts showcasing different browser automation techniques using Chrome WebDrivers.
 
 ### Scripts overview
 
