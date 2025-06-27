@@ -4,7 +4,9 @@
 
 Libraries: *selenium, time, unittest, pytest*
 
-This project contains five Selenium scripts showcasing different browser automation techniques using Chrome and Firefox WebDrivers.
+This project contains Selenium scripts demonstrating various browser automation techniques with Chrome and Firefox WebDrivers, along with two subfolders:
+- **A4Q Selenium Tester** - solutions for the A4Q Selenium Tester workshop exercises and locators practice  
+- **Page Object Model** - example implementation of Selenium tests following the Page Object Model design pattern
 
 ### Scripts overview
 
