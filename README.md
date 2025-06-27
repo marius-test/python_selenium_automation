@@ -29,6 +29,15 @@ This project contains five Selenium scripts showcasing different browser automat
 6. **multi_language_wikipedia_search.py**  
    Opens Wikipedia, iterates through English, French, and German languages, performs a search for "Microsoft" in each, waits between actions, and navigates back after each search.
 
+### Page Object Model Tests
+
+The `page_object_model` folder contains a Selenium test case implemented using the Page Object Model pattern, featuring:
+
+- `element.py`: Descriptor class handling input elements with explicit waits.
+- `locator.py`: Centralized locators for page elements.
+- `page.py`: Page classes representing web pages, encapsulating actions and verifications.
+- `main.py`: Test case using `unittest` framework that searches on python.org, demonstrating POM in action.
+
 ---
 
 ### Notes
