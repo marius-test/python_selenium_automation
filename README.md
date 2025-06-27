@@ -23,6 +23,12 @@ This project contains five Selenium scripts showcasing different browser automat
 4. **cookie_clicker_bot.py**  
    Automates clicks on the Cookie Clicker game using Firefox, demonstrates implicit waits, and item upgrades with action chains.
 
+5. **wikipedia_search.py**  
+   Opens Wikipedia, selects the English language, searches for "Microsoft", and then closes the browser.
+
+6. **multi_language_wikipedia_search.py**  
+   Opens Wikipedia, iterates through English, French, and German languages, performs a search for "Microsoft" in each, waits between actions, and navigates back after each search.
+
 ---
 
 ### Notes
