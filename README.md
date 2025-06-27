@@ -2,7 +2,7 @@
 
 **Selenium** automation demos in **Python**
 
-Libraries: *selenium, time*
+Libraries: *selenium, time, unittest, pytest*
 
 This project contains five Selenium scripts showcasing different browser automation techniques using Chrome and Firefox WebDrivers.
 
