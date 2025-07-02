@@ -57,7 +57,7 @@ The `page_object_model` folder contains a Selenium test case implemented using t
 
 ---
 
-### Tech Stack
+### Tools and Libraries
 
 - **Python** - core programming language  
 - **Selenium** - browser automation framework  
