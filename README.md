@@ -70,4 +70,4 @@ The `page_object_model` folder contains a Selenium test case implemented using t
 
 - ChromeDriver and GeckoDriver paths are hardcoded; update PATH variables to match your local setup.  
 - Scripts use explicit and implicit waits to handle page load timing.  
-- This was my first Selenium learning project and helped me build a solid foundation for more advanced automation work.
+- This project served as a solid foundation for advancing my expertise in Selenium automation.
